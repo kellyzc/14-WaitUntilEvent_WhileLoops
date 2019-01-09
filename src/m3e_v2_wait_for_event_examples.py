@@ -6,7 +6,7 @@ the ITCH pattern:
    while <some CONDITION>: # Test the CONDITION, continue WHILE it is true.
        ...
        ...
-       CHange something that (eventually) affects the CONDITION.
+       Change something that (eventually) affects the CONDITION.
          (else otherwise you will be in an infinite loop)
 
 See the module that is the COMPANION to this one for the same examples,
